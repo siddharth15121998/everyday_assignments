@@ -1,0 +1,6 @@
+tupl=(475005,475006,841239,841256,475021,475010,841240,274005,465500,239600)
+print(len(tupl))
+print(tupl[1:4])
+print(tuple(sorted(tupl)))
+print(tupl[::-1])
+print(tupl)
