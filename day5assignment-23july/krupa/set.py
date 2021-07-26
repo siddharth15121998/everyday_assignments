@@ -1,0 +1,12 @@
+state={"ka","up","mp","ap"}
+pin={10,20,30,40,}
+print(state.intersection(pin))
+print(state.union(pin))
+print(state.issubset(pin))
+print(pin.difference(state))
+state.add("tm")
+print(state)
+pin.remove(40)
+state.discard("ma")
+print(state)
+print(pin)
