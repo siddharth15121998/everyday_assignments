@@ -10,6 +10,6 @@ class Seller(CarManufacturer):
 
 objSeller=Seller()
 objSeller.CustomerOrder("Arif",9898989898) 
-objSeller.makeACar("ford","red",20000)
+objSeller.makeACar("ferari","red",20000)
 objSeller.alotNumber("UP203414")               
 

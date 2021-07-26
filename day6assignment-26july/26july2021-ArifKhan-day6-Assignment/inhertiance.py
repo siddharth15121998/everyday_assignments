@@ -10,7 +10,7 @@ class BMW(Cars):
 
 objCars=Cars()
 objBMW=BMW()
-#objCars.mineColour("Red")
+#objCars.mineColour("Blue")
 objBMW.topSpeed(150)
 
 

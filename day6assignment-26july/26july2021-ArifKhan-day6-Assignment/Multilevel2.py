@@ -13,7 +13,7 @@ class test(student):
         print("Enter the marks of the subjects")
         self.literature = int(input("Literature: "))
         self.math = int(input("Math: "))
-        self.biology = int(input("Chemistry: "))
+        self.biology = int(input("history: "))
         self.physics = int(input("Hindi: "))
 class marks(test):    
     def display(self):
@@ -21,7 +21,7 @@ class marks(test):
         print("Age: ",self.age)
         print("Gender: ",self.gender)
         print("Study in: ",self.stuClass)
-        print("Total Marks: ", self.literature + self.math + self.biology + self.physics)
+        print("Total Marks: ", self.literature + self.math + self.history + self.Hindi)
 m1 = marks()
 m1.Student()
 m1.Marks()

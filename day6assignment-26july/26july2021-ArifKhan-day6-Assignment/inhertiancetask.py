@@ -4,7 +4,7 @@ class Animal:
 
 class Cat(Animal):
     def meows(self):
-        print("Cat is meows")
+        print("Cat is meow")
 d=Cat()
 d.meows()
 d.speak()        

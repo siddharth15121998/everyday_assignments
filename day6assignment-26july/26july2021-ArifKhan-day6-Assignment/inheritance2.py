@@ -8,5 +8,5 @@ class brand(mobile):
         print(self.ios)
 obj1=mobile()
 obj2=brand()
-obj1.mycolor("Blue")
+obj1.mycolor("Red")
 obj2.realme("Apple iphone")

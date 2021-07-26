@@ -1,5 +1,5 @@
 class Employee:
-    emp_name="Arif"
+    emp_name="Khan"
 
     def printName(self):
         print(self.emp_name)
