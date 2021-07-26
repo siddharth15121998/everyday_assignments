@@ -1,3 +1,0 @@
-hello you have to create new branch and then new folder of your own name under this folder day6_assignment and submit your code ,
-then merge with "day6" branch
-dont merge with master
