@@ -1,0 +1,4 @@
+dic=[{"id":1,"name":"A","age":20,"dep":"IT","salary":40000},{"id":2,"name":"B","age":21,"dep":"IT","salary":41000},{"id":3,"name":"C","age":22,"dep":"IT","salary":43000},{"id":4,"name":"D","age":20,"dep":"AC","salary":40900},{"id":5,"name":"E","age":20,"dep":"IT","salary":50000},{"id":6,"name":"F","age":26,"dep":"IT","salary":40000},{"id":7,"name":"G","age":25,"dep":"IT","salary":45000},{"id":8,"name":"H","age":28,"dep":"IT","salary":35000},{"id":9,"name":"I","age":29,"dep":"IT","salary":40000},{"id":10,"name":"j","age":30,"dep":"AC","salary":39000}]
+print(dic)
+print(dic[0].values())
+print(dic[0].keys())
