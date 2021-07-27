@@ -1,0 +1,4 @@
+submit day 7 27/7/2021 assignments in this folder by creating your own folder names
+please have separate folder for output inside your folder 
+dont merge with master 
+merge with day7
