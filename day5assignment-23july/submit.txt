@@ -1,3 +1,0 @@
-Submit the assignments given on friday day5 here 
-first create new branch inside it create folder of your name and then merge it with "day5" branch
-DONT MERGE WITH MASTER
